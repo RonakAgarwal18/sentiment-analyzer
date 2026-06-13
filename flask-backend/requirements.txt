@@ -4,3 +4,4 @@ pandas
 nltk
 keybert
 sentence-transformers
+gunicorn
